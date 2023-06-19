@@ -1,0 +1,74 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#container {
+    background-image: url("./assets/images/menu-img.jpeg");
+    height: 100%;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+}
+
+
+/*#logo {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+#logo img {
+    max-width: 100%;
+    max-height: 100%;
+}*/
+
+span {
+    display: inline-block;
+    transform: skew(21deg);
+}
+
+#startbtn button {
+    /*  background-color: transparent;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;*/
+    background: #fff;
+    border: none;
+    padding: 10px 20px;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 600;
+    width: 120px;
+    cursor: pointer;
+    transform: skew(-21deg);
+}
+
+span {
+    display: inline-block;
+    transform: skew(21deg);
+}
+
+#startbtn button:hover {
+    color: white;
+    background-color: black;
+    border: floralwhite solid 0.1px;
+}
