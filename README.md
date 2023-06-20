@@ -1,12 +1,12 @@
 # Pixlemon
 
-Pixlemon is an unfinished game project inspired by the world of Pokémon. It aims to recreate the experience of exploring a pixelated, top-down map filled with creatures to discover and interact with. Please note that the game is still a work in progress due to the complexity of the mechanics involved in its development.
+Pixlemon is an game project inspired by the world of Pokémon. It aims to recreate the experience of exploring a pixelated, top-down map filled with creatures to discover and interact with. Please note that the game is still a work in progress due to the complexity of the mechanics involved in its development.
 
 ![an ingame image](./assets/images/mk-img.png)
 
 ## Installation Instructions
 
-To start playing Pixlemon, simply visit this website here [Pixlemon]( https://pages.git.generalassemb.ly/kemen0/Project-One/) . There is no additional installation required, as the game is accessible directly through your web browser.
+To start playing Pixlemon, simply visit this website here [Pixlemon]( https://kemen0.github.io/Pixlemon/) . There is no additional installation required, as the game is accessible directly through your web browser.
 
 ## Usage Instructions
 
